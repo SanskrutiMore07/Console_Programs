@@ -1,0 +1,7 @@
+D:\Sanskruti_More\C#_Consol_Programs\AdditionOF2Numbers\bin\Debug\AdditionOF2Numbers.exe.config
+D:\Sanskruti_More\C#_Consol_Programs\AdditionOF2Numbers\bin\Debug\AdditionOF2Numbers.exe
+D:\Sanskruti_More\C#_Consol_Programs\AdditionOF2Numbers\bin\Debug\AdditionOF2Numbers.pdb
+D:\Sanskruti_More\C#_Consol_Programs\AdditionOF2Numbers\obj\Debug\AdditionOF2Numbers.csproj.AssemblyReference.cache
+D:\Sanskruti_More\C#_Consol_Programs\AdditionOF2Numbers\obj\Debug\AdditionOF2Numbers.csproj.CoreCompileInputs.cache
+D:\Sanskruti_More\C#_Consol_Programs\AdditionOF2Numbers\obj\Debug\AdditionOF2Numbers.exe
+D:\Sanskruti_More\C#_Consol_Programs\AdditionOF2Numbers\obj\Debug\AdditionOF2Numbers.pdb

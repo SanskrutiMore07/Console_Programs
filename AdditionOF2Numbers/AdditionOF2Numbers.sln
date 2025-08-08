@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionOF2Numbers", "AdditionOF2Numbers.csproj", "{4138024F-25B8-4A49-9FBA-B02968ACDADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4138024F-25B8-4A49-9FBA-B02968ACDADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4138024F-25B8-4A49-9FBA-B02968ACDADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4138024F-25B8-4A49-9FBA-B02968ACDADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4138024F-25B8-4A49-9FBA-B02968ACDADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50828A72-78D2-462E-B425-1B5EB0F3879D}
+	EndGlobalSection
+EndGlobal
