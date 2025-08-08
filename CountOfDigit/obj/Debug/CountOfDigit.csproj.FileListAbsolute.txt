@@ -1,0 +1,6 @@
+D:\Sanskruti_More\C#_Consol_Programs\CountOfDigit\bin\Debug\CountOfDigit.exe.config
+D:\Sanskruti_More\C#_Consol_Programs\CountOfDigit\bin\Debug\CountOfDigit.exe
+D:\Sanskruti_More\C#_Consol_Programs\CountOfDigit\bin\Debug\CountOfDigit.pdb
+D:\Sanskruti_More\C#_Consol_Programs\CountOfDigit\obj\Debug\CountOfDigit.csproj.CoreCompileInputs.cache
+D:\Sanskruti_More\C#_Consol_Programs\CountOfDigit\obj\Debug\CountOfDigit.exe
+D:\Sanskruti_More\C#_Consol_Programs\CountOfDigit\obj\Debug\CountOfDigit.pdb
