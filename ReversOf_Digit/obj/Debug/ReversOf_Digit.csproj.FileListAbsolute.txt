@@ -1,0 +1,6 @@
+D:\Sanskruti_More\C#_Consol_Programs\ReversOf_Digit\bin\Debug\ReversOf_Digit.exe.config
+D:\Sanskruti_More\C#_Consol_Programs\ReversOf_Digit\bin\Debug\ReversOf_Digit.exe
+D:\Sanskruti_More\C#_Consol_Programs\ReversOf_Digit\bin\Debug\ReversOf_Digit.pdb
+D:\Sanskruti_More\C#_Consol_Programs\ReversOf_Digit\obj\Debug\ReversOf_Digit.csproj.CoreCompileInputs.cache
+D:\Sanskruti_More\C#_Consol_Programs\ReversOf_Digit\obj\Debug\ReversOf_Digit.exe
+D:\Sanskruti_More\C#_Consol_Programs\ReversOf_Digit\obj\Debug\ReversOf_Digit.pdb
