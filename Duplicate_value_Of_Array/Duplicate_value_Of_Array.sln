@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate_value_Of_Array", "Duplicate_value_Of_Array.csproj", "{F359E14B-9404-403F-BDE7-562318404524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F359E14B-9404-403F-BDE7-562318404524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F359E14B-9404-403F-BDE7-562318404524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F359E14B-9404-403F-BDE7-562318404524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F359E14B-9404-403F-BDE7-562318404524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B13A31DC-CB38-4667-8F2E-D78982A71F5D}
+	EndGlobalSection
+EndGlobal
